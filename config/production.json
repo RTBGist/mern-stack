@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://yourdeveloper:testtest@cluster0.s5urz.mongodb.net/mernApp?retryWrites=true&w=majority",
+  "jwtSecret": "somesecretkeyformernapp",
+  "baseUrl": "http://localhost:5000"
+}
